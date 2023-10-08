@@ -17,10 +17,10 @@ To use the program, simply enter the size of the pizza in inches into the text f
 
 Example usage
 
-Enter the size of the pizza in inches: 12
-Click the "Calculate Servings" button.
-The program will display the following output:
-This pizza will serve 2.25 people
+    Enter the size of the pizza in inches: 12
+    Click the "Calculate Servings" button.
+    The program will display the following output:
+    This pizza will serve 2.25 people
 
 # Installation
 
